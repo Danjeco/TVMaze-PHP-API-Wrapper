@@ -1,22 +1,12 @@
 {
-    "name": "joshpinkney/tv-maze-php-api",
-    "description": "TVMaze-API-Wrapper",
+    "name": "joshpinkney/tv-maze-php-api-wrapper",
+    "license": "MIT",
     "authors": [
         {
             "name": "Josh Pinkney",
             "email": "Joshpinkney@gmail.com"
         }
     ],
-    "require": { 
-        "joshpinkney/tv-maze-php-api" : "dev-master"
-    },
-    "require-dev": { 
-        "joshpinkney/tv-maze-php-api" : "dev-master"
-    },
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-0": {
-            "JPinkney": ""
-        }
-    }
+    "require": {}
 }
