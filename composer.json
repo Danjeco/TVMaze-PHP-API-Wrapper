@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
-        "danjeco/tvmaze": "dev-master",
+        "danjeco/tvmaze": "dev-master"
     },
     "autoload": {
         "psr-0": {
